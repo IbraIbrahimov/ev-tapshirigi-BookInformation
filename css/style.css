@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 30px;
+    color: rgb(11, 220, 252);
+    font-style: italic;
+}
+label{
+    color: rgb(11, 220, 252);
+    
+}
+button{
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+    background-color: #6D4310;
+    color: aliceblue;
+    font-weight: 500;
+}
+.border1{
+    border: 2px solid black;
+}
